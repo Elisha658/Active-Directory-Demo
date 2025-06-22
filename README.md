@@ -4,7 +4,7 @@
 ---
 
 ## Step 1: Access AD Users & Computers  
-![AD Users Interface](domain%20user%201.png)  
+![AD Users Interface](domain%20User%201.png)  
 - Navigate to `Server Manager > Tools > Active Directory Users and Computers`.  
 - Expand your domain (`El.local`) and select the `Users` OU.  
 
