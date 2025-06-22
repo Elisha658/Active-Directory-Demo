@@ -6,7 +6,7 @@
 ## Step 1: Access AD Users & Computers  
 ![AD Users Interface](Domain%20User%201.png)  
 - Navigate to `Server Manager > Tools > Active Directory Users and Computers`.  
-- Expand your domain (`El.local`) and select the `Users` OU.  
+- Expand your domain (`ElI.local`) and select the `Users` OU.  
 
 ---
 
@@ -14,7 +14,7 @@
 ![New User Form](domain%20user%202.png)  
 - Right-click in the `Users` container → `New` → `User`.  
 - Fill in:  
-  - **First/Last name**: Bisha Tachie  
+  - **First/Last name**: Elisha Tachie  
   - **Logon name**: `El.Tachie@El.local`  
 
 ---
