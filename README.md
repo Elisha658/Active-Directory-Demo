@@ -7,7 +7,7 @@
 ![AD Users Interface](Domain%20User%201.png)  
 - Navigate to `Server Manager > Tools > Active Directory Users and Computers`.  
 - Expand your domain (`ElI.local`) and select the `Users` OU.  
-
+- This wll start the process to create a new user
 ---
 
 ## Step 2: Create a New User  
@@ -15,7 +15,7 @@
 - Right-click in the `Users` container → `New` → `User`.  
 - Fill in:  
   - **First/Last name**: Elisha Tachie  
-  - **Logon name**: `El.Tachie@El.local`  
+  - **Logon name**: `ETachie`  
 
 ---
 
